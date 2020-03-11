@@ -1,3 +1,3 @@
 # What is Kraken?
 
-Kraken is a DLL injector for any game. Open the exe, select a file, and inject.
+Kraken is a free script executor using the EasyExploits DLL.
